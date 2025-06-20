@@ -21,10 +21,10 @@ NutriMood menganalisis hubungan antara nutrisi makanan dan dampaknya terhadap mo
 * Training Time: 19ms/step
 
 📊 Classification Report
-![Demo Sistem Rekomendasi Makanan](assets/demo-aplikasi.gif)
+![Demo Sistem Rekomendasi Makanan](assets/classification_report.png)
 
 📉 Model Performance
-![Demo Sistem Rekomendasi Makanan](assets/demo-aplikasi.gif)
+![Demo Sistem Rekomendasi Makanan](assets/model_perfomance.png)
 
 Model menunjukkan konvergensi yang baik dengan:
 * Training accuracy mencapai ~91%
